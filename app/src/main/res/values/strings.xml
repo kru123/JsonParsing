@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">json</string>
+    <string name="refresh">Refresh</string>
+    <string name="moviename">Moviename</string>
+    <string name="year">Year</string>
+    <string name="director">Director</string>
+    <string name="tagline">Tagline</string>
+</resources>
