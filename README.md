@@ -11,4 +11,3 @@ User third party library of Universal ImageLoader for loading images in applicat
  </br>
  
 
-<iframe width="854" height="480" src="https://github.com/kru123/JsonParsing/blob/master/json.mp4" frameborder="0" allowfullscreen></iframe>
