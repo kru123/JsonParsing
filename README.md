@@ -10,4 +10,4 @@ User third party library of Universal ImageLoader for loading images in applicat
   </hr><image height ="350" src = "https://github.com/kru123/JsonParsing/blob/master/json4.png"/>
  </br>
  
-[![Watch the video](https://github.com/kru123/JsonParsing/blob/master/json.mp4)]
+[![Watch the video](https://github.com/kru123/JsonParsing/blob/master/json.mp4)](http://youtu.be/vt5fpE0bzSY)
